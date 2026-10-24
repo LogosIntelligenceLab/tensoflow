@@ -51,10 +51,10 @@ bash run_occ_orb_mat.sh.sh $SCENE $DEVICE
 
 ## 🛠️ Visualization
 <div align="center">
-  <img src="assets\exp_material_0.png"/>
+  <img src="assets/exp_material_0.png"/>
 </div><br/>
 <div align="center">
-  <img src="assets\exp_material_1.png"/>
+  <img src="assets/exp_material_1.png"/>
 </div><br/>
 
 ## 📜 BibTeX
