@@ -16,7 +16,7 @@
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/fudan-zvg/tensoflow.git
+git clone https://github.com/LogosIntelligenceLab/tensoflow.git
 
 conda create -n tensoflow python=3.10
 conda activate tensoflow
